@@ -17,3 +17,5 @@
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Vue3 + Vite
 
 <g-emoji class="g-emoji" alias="jigsaw" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png">🧩</g-emoji> Tailwind
+
+[Version déployée](https://64c27364f027f9020d5f6434--thriving-torte-d0e1ad.netlify.app/)
