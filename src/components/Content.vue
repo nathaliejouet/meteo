@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col items-center space-y-10 bg-slate-50 rounded-lg w-80 h-5/6 p-8"
+    class="flex flex-col items-center space-y-10 bg-slate-50 rounded-lg w-80 h-4/6 p-8"
   >
     <Lang />
     <Search v-model="city" />

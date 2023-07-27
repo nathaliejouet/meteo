@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col items-center space-y-10 mt-5 pb-6 capitalize">
+  <div class="flex flex-col items-center space-y-10 mt-5 pb-8 capitalize">
     <div>
       {{ $t("feelsLikeTempTitle") }}
       {{ Math.ceil(temperatureInfos?.feelsLike) }}°
