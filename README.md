@@ -18,4 +18,4 @@
 
 <g-emoji class="g-emoji" alias="jigsaw" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png">🧩</g-emoji> Tailwind
 
-[Version déployée](https://app.netlify.com/sites/thriving-torte-d0e1ad/deploys)
+[Version déployée](https://thriving-torte-d0e1ad.netlify.app/)
